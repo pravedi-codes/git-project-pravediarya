@@ -9,3 +9,5 @@ I am a student at UGSOT, currently learning Git and GitHub.
 ## Projects
 - LMS: 1st project
 - CMS: 2nd project
+## Contact
+- Email: pravediarya27s@gmail.com
